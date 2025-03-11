@@ -41,7 +41,7 @@ This Foxytoux Installer script is released under the [MIT License](LICENSE).
 
 ## Credits
 
-Foxytoux Installer is developed and maintained by t.me/@GOLEM_OWNER
+developed and maintained by t.me/@GOLEM_OWNER
 
 ---
 
