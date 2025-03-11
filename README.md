@@ -1,4 +1,4 @@
-# Foxytoux Installer
+# GOLEM ROOT INSTALLER
 
 ## Overview
 
